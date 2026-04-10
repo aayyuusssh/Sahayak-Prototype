@@ -396,7 +396,7 @@ We have a clear vision to evolve Sahayak from a prototype to a medical-grade pro
       Hardware & Edge Privacy
     </td>
     <td align="center" width="25%">
-      <img src="https://drive.google.com/file/d/17R_mmF2Eg2RB7uJeNT3RKA6y3rrtvZSK/view?usp=sharing" width="100px" alt="Team Member" />
+      <img src="https://drive.google.com/file/d/17R_mmF2Eg2RB7uJeNT3RKA6y3rrtvZSK/view" width="100px" alt="Team Member" />
 <br />
       <b>Ayush Gupta</b><br>
       <a href="https://www.linkedin.com/in/aayyuusssh/">
