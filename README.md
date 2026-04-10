@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/AI-Edge_Computing-00C853?style=for-the-badge&logo=nvidia&logoColor=white" />
   </p>
 
-  <h3 align="center">✨ Devcation Hack 'N' Solve ✨</h3>
+  <h3 align="center">✨ ACE(M) HACK ✨</h3>
 </div>
 
 ---
@@ -396,33 +396,14 @@ We have a clear vision to evolve Sahayak from a prototype to a medical-grade pro
       Hardware & Edge Privacy
     </td>
     <td align="center" width="25%">
-      <img src="https://drive.google.com/uc?export=view&id=1Rbq5oylXP8-XMWBSGRM_XEhHQ2-Wvu15" width="100px" alt="Team Member" />
+      <img src="https://drive.google.com/file/d/17R_mmF2Eg2RB7uJeNT3RKA6y3rrtvZSK/view?usp=sharing" width="100px" alt="Team Member" />
 <br />
-      <b>Palak Gupta</b><br>
-      <a href="https://www.linkedin.com/in/palak-gupta-557504384/">
+      <b>Ayush Gupta</b><br>
+      <a href="https://www.linkedin.com/in/aayyuusssh/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a><br />
-      🧠 <i>Memory Architect</i><br />
+      🧠 <i>Memory Architect || Harware Integration</i><br />
       Episodic Memory & Agents
-    </td>
-    <td align="center" width="25%">
-      <img src="https://drive.google.com/uc?export=view&id=1Ej0vTnV0642rw0gbuI8uXaVK5UhXRf8v" width="100px" alt="Team Member" />
-<br />
-      <b>Srishti Jain</b><br>
-      <a href="https://www.linkedin.com/in/srishti-jain-193aa3281/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a><br />
-      🗣️ <i>Voice Engineer</i><br />
-      NLP & Accessibility
-    </td>
-    <td align="center" width="25%">
-      <img src="https://drive.google.com/uc?export=view&id=198uqapZ9weDS0HqTCQpTF2tX4nEoPclQ" width="100px" alt="Profile Image" /><br />
-      <b>Anshuman Dutta</b><br>
-      <a href="https://www.linkedin.com/in/anshuman-dutta-b62b37339/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a><br />
-      👁️ <i>Vision Lead</i><br />
-      Computer Vision (YOLO/CLIP)
     </td>
   </tr>
 </table>
@@ -440,8 +421,8 @@ We have a clear vision to evolve Sahayak from a prototype to a medical-grade pro
   <p><i>"Preserving memories, one line of code at a time."</i></p>
   <br />
   <p>
-    Made with ❤️ & ☕ by <b>Team Percevia</b><br>
-    <b>Devcation Hack 'N' Solve</b>
+    Made with ❤️ & ☕ by <b>Team BB (Percevia)</b><br>
+    <b>ACE(M) HACK</b>
   </p>
 </div>
 
